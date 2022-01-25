@@ -1,12 +1,7 @@
 
 
-/*
-
 body {
-	
-	background-color: blue; 
-	background-image: url("croisadeJanuary.jpg");
+	/*background-image: url('croisadeJanuary.jpg');
+	background-size: 100%;
+}
 
-	
-	 background-repeat: no-repeat; 
-} 
